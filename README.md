@@ -115,11 +115,11 @@ interests:
 
 <div align="center">
 
-![Akshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshit1715&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+[![Akshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshit1715&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/akshit1715)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshit1715&layout=compact&theme=tokyonight&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshit1715&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/akshit1715)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=akshit1715&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=akshit1715&theme=tokyonight&hide_border=true)](https://github.com/akshit1715)
 
 </div>
 
@@ -127,7 +127,7 @@ interests:
 
 ## 📈 Contribution Graph
 
-[![Akshit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akshit1715&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Akshit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akshit1715&theme=tokyo-night&hide_border=true)](https://github.com/akshit1715)
 
 ---
 
@@ -153,7 +153,7 @@ I'm actively looking for **backend developer internships** and **entry-level rol
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+*"First, make it work. Then, make it right. Then, make it fast."* — 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=akshit1715&color=00b894&style=flat-square&label=Profile+Views)
 
